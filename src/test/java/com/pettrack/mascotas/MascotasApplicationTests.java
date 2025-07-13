@@ -8,6 +8,7 @@ class MascotasApplicationTests {
 
 	@Test
 	void contextLoads() {
+		MascotasApplication.main(new String[] {});
 	}
 
 }
